@@ -18,7 +18,7 @@
 # Installation
 
 ##### **Quick start**
-1. ``
+1. `git clone https://github.com/Jibranwani/Insider-Threat-Detection.git`
 2. `cd python-keylogger`
 3. Customize parameters in Start.py: url_server_upload, hidden_service_check_connection.
 ###### **Run as a Python script**
