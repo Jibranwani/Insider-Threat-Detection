@@ -1,4 +1,5 @@
-## IBM PROJECT
+## IBM PROJECT ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fibm-logo%2F&psig=AOvVaw0WsgqZwQw9hWMSINYIIVdl&ust=1699186517368000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICrkYupqoIDFQAAAAAdAAAAABAE)
+
 ## INSIDER THREAT DETECTION IN LEGAL FIRMS🕵️‍♂️
 
 
